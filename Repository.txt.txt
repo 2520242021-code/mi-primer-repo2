@@ -1,1 +1,7 @@
 Mi primer repositorio (prueba)
+
+Entendí para que sirve cada comando de git y como se puede crear un repositorio, también aprendí que al iniciar el Git se crea una carpeta llamada .git la cual a veces viene oculta por un pequeño defecto de Windows, la cual se tiene que activar la opción de mostrar elementos ocultos. 
+
+En resume poder aprender a crear un nuevo repositorio sirve para llevar un pequeño control del historial de los archivos locales y respaldarlos en la nube por si en algún momento la computadora sufre de algún daño no se pierda el trabajo y queden resguardados en los servidores externos seguro
+
+
